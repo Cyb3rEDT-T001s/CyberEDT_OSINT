@@ -52,7 +52,7 @@ A powerful, free, and open-source OSINT (Open Source Intelligence) toolkit desig
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CyberEDT-OSINT-Toolkit.git
+   git clone https://github.com/Cyb3rEDT-T001s/CyberEDT-OSINT-Toolkit.git
    cd CyberEDT-OSINT-Toolkit
    ```
 
