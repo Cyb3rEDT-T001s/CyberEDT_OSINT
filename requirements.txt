@@ -1,0 +1,12 @@
+# Core Dependencies
+requests>=2.31.0
+python-whois>=0.9.3
+beautifulsoup4>=4.12.2
+dnspython>=2.4.2
+cryptography>=42.0.0
+zxcvbn>=4.4.28
+
+# Development Dependencies (optional)
+pytest>=7.4.0
+pytest-cov>=4.1.0
+flake8>=6.1.0
